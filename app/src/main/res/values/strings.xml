@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ZenohApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_z_put">ZPut</string>
+    <string name="menu_z_pub">ZPub</string>
+    <string name="menu_z_sub">ZSub</string>
+    <string name="menu_z_queryable">ZQueryable</string>
+    <string name="menu_z_delete">ZDelete</string>
+    <string name="menu_z_get">ZGet</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="z_get_liveliness">ZGetLiveliness</string>
+    <string name="z_info">ZInfo</string>
+    <string name="z_liveliness">ZLiveliness</string>
+    <string name="z_sub_liveliness">ZSubLiveliness</string>
+    <string name="z_ping">ZPing</string>
+    <string name="z_pong">ZPong</string>
+    <string name="z_pub_thr">ZPubThr</string>
+    <string name="z_sub_thr">ZSubThr</string>
+    <string name="z_scout">ZScout</string>
+    <string name="z_get">ZGet</string>
+    <string name="z_put">ZPut</string>
+    <string name="z_delete">ZDelete</string>
+    <string name="z_sub">ZSub</string>
+    <string name="z_queryable">ZQueryable</string>
+    <string name="z_pub">ZPub</string>
+</resources>
